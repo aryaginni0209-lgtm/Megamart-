@@ -1,4 +1,4 @@
 window.MEGAMART_CONFIG = {
-  SUPABASE_URL: "YOUR_SUPABASE_PROJECT_URL",
-  SUPABASE_ANON_KEY: "YOUR_SUPABASE_ANON_KEY"
+  SUPABASE_URL: "https://letzbgcqbhmpasunijsn.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_-lgesOEhBeBBr63Q90g4OQ_4C6rvdsa"
 };
